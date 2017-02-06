@@ -1,7 +1,7 @@
                                 #Hrishikesh Moholkar
 """
 This python file exptrees applies the concept of binary tree to show
-the solving of following expression.
+the evaluation of the following expression.
 """
 
 
