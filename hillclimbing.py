@@ -1,7 +1,7 @@
                                 #hrishikesh moholkar
 """
 #hillclimbing algorithm returns the local maximum point surrounding the location of a
-#particular point (x,y)in a particular optimum range.
+#particular point (x,y)in a particular optimum range. Application of greedy algorithm.
 
 """
 import math
