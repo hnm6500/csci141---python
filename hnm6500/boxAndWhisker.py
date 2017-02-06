@@ -1,7 +1,7 @@
 """
 Name:Hrishikesh N Moholkar
 file:boxAndWhisker.py
-this file opens a turtle window and draw
+this file opens a turtle window and draws
 a box and whisker plot.
 """
 from wordData import *
