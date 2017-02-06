@@ -1,5 +1,5 @@
-                    #hrishikesh moholkar
-
+# Name : Hrishikesh Moholkar
+# Draws a snowflake using turtle commands
 import turtle
 def star(S,N):
     """
